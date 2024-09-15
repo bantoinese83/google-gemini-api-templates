@@ -1,20 +1,20 @@
-# Google Gemini API Templates
+# Google Gemini API Templates 🌟
 
 An API for processing images, videos, PDFs, audio, code, and search queries using Google's Generative AI models.
 
-## Features
+## Features ✨
 
-- **Image Processing**: Upload an image and get a description.
-- **Video Processing**: Upload a video and get a summary.
-- **PDF Processing**: Upload a PDF and get a summary.
-- **Audio Processing**: Upload an audio file and get a summary.
-- **Code Execution**: Execute Python code and get the result.
-- **Web Search**: Search the web for information.
-- **Text Generation**: Generate text from a text-and-image input or a text-only input.
-- **Interactive Chat**: Build an interactive chat.
-- **Structured Output**: Generate structured JSON output.
+- **Image Processing** 🖼️: Upload an image and get a description.
+- **Video Processing** 🎥: Upload a video and get a summary.
+- **PDF Processing** 📄: Upload a PDF and get a summary.
+- **Audio Processing** 🎵: Upload an audio file and get a summary.
+- **Code Execution** 💻: Execute Python code and get the result.
+- **Web Search** 🔍: Search the web for information.
+- **Text Generation** 📝: Generate text from a text-and-image input or a text-only input.
+- **Interactive Chat** 💬: Build an interactive chat.
+- **Structured Output** 📊: Generate structured JSON output.
 
-## Installation
+## Installation 🛠️
 
 1. Clone the repository:
     ```sh
@@ -39,11 +39,11 @@ An API for processing images, videos, PDFs, audio, code, and search queries usin
     LOG_LEVEL=INFO
     ```
 
-## Configuration
+## Configuration ⚙️
 
 The configuration is handled in the `config.py` file. It loads environment variables from the `.env` file and sets up logging.
 
-## Running the Application
+## Running the Application 🚀
 
 To run the application, use the following command:
 ```sh
