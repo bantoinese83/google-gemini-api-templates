@@ -1,4 +1,4 @@
-# Generative AI API
+# Google Gemini API Templates
 
 An API for processing images, videos, PDFs, audio, code, and search queries using Google's Generative AI models.
 
