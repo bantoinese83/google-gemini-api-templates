@@ -9,6 +9,7 @@ from fastapi.responses import JSONResponse
 from config import logger
 from utils import GenerateStructuredOutputRequest, save_temp_file, clean_up_temp_file, Message
 
+
 # Create a router with versioning
 gemini_router = APIRouter(prefix="/v1")
 
